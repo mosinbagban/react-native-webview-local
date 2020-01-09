@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/09695918d609047ac337776c4fea0401/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/09695918d609047ac337776c4fea0401/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/09695918d609047ac337776c4fea0401/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/09695918d609047ac337776c4fea0401/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/09695918d609047ac337776c4fea0401/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/09695918d609047ac337776c4fea0401/res/anim/catalyst_push_up_out.xml"
+    }
+]

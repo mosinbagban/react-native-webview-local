@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/redbox_item_frame.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/09695918d609047ac337776c4fea0401/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a7627cea4469803d23d05dc734b49c0a/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_tooltip.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/redbox_view.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/09695918d609047ac337776c4fea0401/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a7627cea4469803d23d05dc734b49c0a/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a7627cea4469803d23d05dc734b49c0a/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a7627cea4469803d23d05dc734b49c0a/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a7627cea4469803d23d05dc734b49c0a/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/redbox_item_title.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/09695918d609047ac337776c4fea0401/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/dev_loading_view.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/09695918d609047ac337776c4fea0401/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e6bb6f246ffdf87a8463888620e8ce88/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/sourabhtripathi/Desktop/Shantanu/three-rebus-mobile-app/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout/fps_view.xml",
+        "source": "/Users/sourabhtripathi/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/09695918d609047ac337776c4fea0401/res/layout/fps_view.xml"
+    }
+]
